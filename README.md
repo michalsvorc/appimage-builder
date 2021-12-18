@@ -55,7 +55,8 @@ See this [stack overflow](https://stackoverflow.com/questions/48402218/fuse-insi
 ## Tested recipes
 
 - VSCode
+- Chromium
 
-## Notes
+## Notice
 
 This project is not affiliated with nor endorsed by [pkg2appimage](https://github.com/AppImage/pkg2appimage).

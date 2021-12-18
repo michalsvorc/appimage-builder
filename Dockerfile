@@ -21,6 +21,7 @@ RUN apt-get update \
   file \
   imagemagick \
   libglib2.0-dev \
+  unzip \
   wget \
   && rm -rf /var/lib/apt/lists/*
 
