@@ -54,8 +54,9 @@ See this [stack overflow](https://stackoverflow.com/questions/48402218/fuse-insi
 
 ## Tested recipes
 
-- VSCode
+- Blender
 - Chromium
+- VSCode
 
 ## Notice
 
